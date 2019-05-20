@@ -1,5 +1,7 @@
 # dauphine-optimization
-Project : Linear regression methods (Least Squares, Ridge and Lasso) with Python  
+Project : Linear regression methods comparison (Least Squares, Ridge and Lasso) with Python  
+
+==
 
 Author : Rudy Detain  
 
